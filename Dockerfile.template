@@ -1,4 +1,4 @@
-FROM resin/%%RESIN_MACHINE_NAME%%-alpine-node:slim
+FROM resin/%%RESIN_MACHINE_NAME%%-alpine-node:latest
 
 MAINTAINER Gergely Imreh <gergely@imreh.net>
 
