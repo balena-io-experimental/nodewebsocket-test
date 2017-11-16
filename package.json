@@ -8,6 +8,11 @@
     "start": "node server.js"
   },
   "author": "",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/resin-io-playground/nodewebsocket-test.git"
+  },
   "license": "Apache-2.0",
   "dependencies": {
     "ws": "^3.3.1",
